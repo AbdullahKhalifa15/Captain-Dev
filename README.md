@@ -1,9 +1,14 @@
-The system helps students to learn from their homes in an easier way and develop their skills.
+🧑‍💻 Captain Dev (Web Application - ASP.NET MVC)
+Captain Dev is a web-based learning platform designed to enhance remote education by supporting both students and instructors.
 
-Through it, instructors can:
+🎯 Key Features:
+📚 Students can learn from home more easily and develop their academic skills.
 
-Control course content
+👨‍🏫 Instructors can:
 
-Follow up on students' attendance and absence
+Manage and update course content
 
-Assign homework for each lecture for a specific course
+Track student attendance and absence
+
+Assign homework for each lecture in a specific course
+
